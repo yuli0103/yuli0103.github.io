@@ -18,7 +18,7 @@ redirect_from:
 
 I am currently a 1st year Master student in Tsinghua University Shenzhen International Graduate School, supervised by Prof. Yujiu Yang. Previously, I received my bachelor's degree in Department of Computer Science and Technology from Xiamen University.
 
-My research interest includes Visual Content Generation(Image & Video & 3D), Diffusion model, MLLM.
+My research interest includes Visual Content Generation(Image, Video, 3D), Diffusion model, MLLM.
 
 
 # 🔥 News
