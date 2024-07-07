@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yu Li"
-description              : "Master student at Tsinghua University. "
-repository               : "lllyyhjy/yuli.github.io"
+description              : "Master student at Tsinghua University. Focusing on Visual Conent Generation, Diffusion and MLLM "
+repository               : "yuli0103/yuli0103.github.io"
 google_scholar_stats_use_cdn : False
 
 # google analytics
@@ -24,7 +24,7 @@ author:
   name             : "Yu Li"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Tsinghua University"
-  location         : "China"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lllyyhjy"
+  github           : "yuli0103"
   google_plus      :
   keybase          :
   instagram        :
