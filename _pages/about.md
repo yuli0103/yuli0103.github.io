@@ -35,8 +35,6 @@ My research interest includes Visual Content Generation(Image, Video, 3D), Diffu
 - *2024.09 - Now*, Master, Tsinghua University. 
 - *2020.09 - 2024.06*, Undergraduate, Xiamen Univeristy. 
 
-# 💬 Invited Talks
-
 
 # 💻 Internships
 
